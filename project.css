@@ -1,0 +1,43 @@
+*{
+    font-family: montserrat;
+    color: white
+    ;
+}
+
+h1{
+    text-align: center;
+    background-color: Black;
+    color:  #66FCF1;
+}
+ul{
+    list-style: none;
+}
+li{
+    display: inline;
+    margin: 15%;
+}
+
+nav{
+    background-color: Black;
+    padding: 2%;
+    
+}
+
+li a {
+    color: #66FCF1;
+    text-decoration: none;
+}
+
+li a:hover {
+    color: red;
+    text-decoration: none;
+}
+body {
+  background-image: url("car.jpg")
+  ;
+
+}
+
+h3{
+    text-align: center;
+}
